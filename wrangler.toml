@@ -11,4 +11,4 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "sistema_gastronomico"
-database_id = "local"
+database_id = "512ee40b-67a5-4479-a7dd-908228d57890"
